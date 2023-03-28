@@ -9,16 +9,7 @@ public class Main {
 ```
 
 ## Stack 
-<img src="https://img.shields.io/badge/Java-C71A36?style=for-the-badge&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/SPring-%236DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/SPring boot-%236DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/H2-black?style=for-the-badge&logo=H2&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-006400?style=for-the-badge&logo=Hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Junit-FA8072?style=for-the-badge&logo=Junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT-9370DB?style=for-the-badge&logo=GIT&logoColor=white"/>
-<img src="https://img.shields.io/badge/DOcker-blue?style=for-the-badge&logo=DOcker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-C71A36?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/SPring-%236DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SPring boot-%236DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/H2-black?style=for-the-badge&logo=H2&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-006400?style=for-the-badge&logo=Hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/> <img src="https://img.shields.io/badge/Junit-FA8072?style=for-the-badge&logo=Junit5&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-9370DB?style=for-the-badge&logo=GIT&logoColor=white"/> <img src="https://img.shields.io/badge/DOcker-blue?style=for-the-badge&logo=DOcker&logoColor=white"/>
 
 ⚡ Fun fact: I am looking for a job as a java developer 😄
 
