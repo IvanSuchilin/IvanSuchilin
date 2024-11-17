@@ -4,7 +4,7 @@
 ``` java 
 public class Main {
     public static void main(String[] args) {
-    System.out.println("I'm beginner java developer");
+    System.out.println("I'm java developer at Diasoft");
     }
 }
 ```
